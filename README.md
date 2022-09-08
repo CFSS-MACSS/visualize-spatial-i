@@ -1,1 +1,1 @@
-# spatial-viz-i
+# visualize-spatial-i
